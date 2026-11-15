@@ -14,7 +14,7 @@ public class basic {
     }
 
     public static int minus(int a, int b) {
-        return a - b;
+        return a - b * 9;
     }
 
 }
